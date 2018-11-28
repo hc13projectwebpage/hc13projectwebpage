@@ -2,8 +2,8 @@
 
 List of group members and neighborhoods:
 
-Calvin Herman: Williamsburg
-Myron Huang: Cypress Hills
+Calvin Herman: Williamsburg  
+Myron Huang: Cypress Hills  
 Elizabeth Lee: Greenwich Village
 
 How will the L train closure affect our neighborhood? 
@@ -15,7 +15,7 @@ In Greenwich Village, closure of the L in the 14th street and 8th avenue station
 
 ### URL of individual projects
 
-```markdown
-Calvin Herman: https://calvinherman.github.io/
-Myron Huang: https://myronhuang96.github.io/
+```markdown  
+Calvin Herman: https://calvinherman.github.io/  
+Myron Huang: https://myronhuang96.github.io/  
 Elizabeth Lee: https://simplybethly.github.io/Elizabeth-Lee/
